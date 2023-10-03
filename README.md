@@ -1,5 +1,5 @@
 <h1 align="center">
-    SFM
+    Fortress
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@ cd fortress
 make
 ```
  
-## Test
+## Usage
 
 ```
 make input-file='your-input-file' run
