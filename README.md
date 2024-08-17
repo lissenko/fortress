@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    A compiler written in java for a simplified version of Fortran.
+    A compiler written in java for a simplified version of Fortress.
 </p>
 
 ## Compile
